@@ -1,0 +1,9 @@
+# Repositorio Git anidado accidentalmente
+mobile/HCKMX26-1776654761/
+
+# Archivos duplicados de Flutter
+mobile/.flutter-plugins copy
+
+# Variables de entorno
+backend/.env
+.env
