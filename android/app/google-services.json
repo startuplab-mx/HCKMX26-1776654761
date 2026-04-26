@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427188618383",
+    "project_id": "maqueta-mensajes",
+    "storage_bucket": "maqueta-mensajes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427188618383:android:7494955787a45fb6801cfa",
+        "android_client_info": {
+          "package_name": "com.example.maqueta_mensajes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGH-2hUJKXuBHQhuDn2uUCJhrZ9aONLLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
